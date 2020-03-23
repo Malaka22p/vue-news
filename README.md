@@ -1,9 +1,12 @@
 # vue-news
 This is news app created with vuejs using news Api. 
 
-#Todo List
-Includes feature list and future updates
+## Todo List
 
-Dark Mode
-Share Button
-Save/Bookmark
+
+### Build instructions
+
+Includes feature list and future updates
+ - Dark Mode
+ - Share Button
+ - Save/Bookmark
